@@ -1,0 +1,24 @@
+article { 
+    padding: 1.5%;
+    margin-bottom: 20px;
+}
+ 
+section { 
+    padding: 1.25%;
+}
+
+.detail {
+    padding-top: 20%;
+}
+
+.form-control {
+    margin-bottom: 8%;
+}
+
+.col-md-5 {
+    margin-bottom: 2%;
+}
+
+.productList {
+    margin-bottom: 5.8%;
+}
